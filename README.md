@@ -25,5 +25,5 @@ each series of threads are performed in parallel.\
 
 ## Running file in linux
 1.make
-2../HousePricePrediction AddressofData/ PriceThreshold
-  exp : ./HousePricePrediction dataset/ 330000 
+2../HousePricePrediction AddressofData/ PriceThreshold \
+  exp : ./HousePricePrediction dataset/ 330000 \
